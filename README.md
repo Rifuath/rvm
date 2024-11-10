@@ -1,4 +1,4 @@
-# RVM ( LC-3 ) Virtual Machine
+# RVM ( LC-3 ) Virtual Machine (In Progress)
 This Virtual machine is built for the sole purpose of educational purpose.
 
 ## Compilation
